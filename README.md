@@ -1,1 +1,2 @@
 # Eye-Controlled-Mouse
+The Eye-Controlled Mouse Python Project is an innovative and assistive technology endeavor that aims to empower individuals with motor disabilities or conditions that limit their ability to use traditional input devices like a mouse or keyboard. This project leverages computer vision and eye-tracking technology to enable users to control the computer cursor using their eye movements, providing a hands-free and intuitive interface.
